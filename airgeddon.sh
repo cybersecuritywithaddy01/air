@@ -9298,7 +9298,7 @@ function set_charset() {
 					charset="${crunch_lowercasecharset}${crunch_uppercasecharset}${crunch_symbolcharset}"
 				;;
 				11)
-					charset="${crunch_lowercasecharset}${crunch_uppercasecharset}${crunch_numbercharset}${crunch_symbolcharset}"
+					charset="${crunch_uppercasecharset}${crunch_lowercasecharset}${crunch_numbercharset}${crunch_symbolcharset}"
 				;;
 			esac
 		;;
