@@ -373,7 +373,7 @@ declare enterprise_hints=(112 332 483 518 629 301 697 699 739)
 crunch_lowercasecharset="abcdefghijklmnopqrstuvwxyz"
 crunch_uppercasecharset="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 crunch_numbercharset="0123456789"
-crunch_symbolcharset="!#$%@=-*:;"
+crunch_symbolcharset="@"
 hashcat_charsets=("?l" "?u" "?d" "?s")
 
 #Tmux vars
